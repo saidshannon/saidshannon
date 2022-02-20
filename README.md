@@ -1,6 +1,6 @@
 # Hi👋🏼 My name is Shannon Dias
 I am a Computer and Communication Engineering student in Manipal Institute of Technology, currently in third year.
-<p>View resume <a href="C:\Users\Shannon DIas\Documents\Shannon_cv.pdf">here</a></p>
+<p>View resume <a href="https://github.com/saidshannon/saidshannon/blob/main/Shannon_cv.pdf">here</a></p>
 
 ## 📫 Contact me: 
 </p>
