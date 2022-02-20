@@ -23,7 +23,7 @@ I am a Computer and Communication Engineering student in Manipal Institute of Te
 
 ## 📱 Contact me:-
 </p>
-<a href="https://linkedin.com/in/shannon-dias" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://linkedin.com/in/shannon-dias" target="_blank" rel="noopener noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="Python" height="60" style="vertical-align:top; margin:4px"></a>
 <p>
 
 
