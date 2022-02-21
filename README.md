@@ -19,6 +19,7 @@ I am a Computer and Communication Engineering student in Manipal Institute of Te
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://img.stackshare.io/service/5601/keras.png" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## 📱 Contact me:-
