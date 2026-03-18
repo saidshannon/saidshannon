@@ -1,7 +1,7 @@
 # Hi👋🏼 My name is Shannon Dias
 I am an Information Technology student in RMIT. I have a major interest in the Data Science and Analytics Field and seek to get more expertise in the domain.
 
-<p>•📄 View resume <a href="https://github.com/saidshannon/saidshannon/blob/main/Shannon_cv.pdf">here</a></p>
+<p>•📄 View resume <a href="https://github.com/saidshannon/saidshannon/blob/main/Shannon_Dias_ATS_Reformatted.pdf">here</a></p>
 •📫 E-mail: saidshannon@gmail.com
 
 
