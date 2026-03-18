@@ -1,5 +1,5 @@
 # Hi👋🏼 My name is Shannon Dias
-I am a Computer and Communication Engineering student in Manipal Institute of Technology, currently in third year.I have a major interest in the Data Science and Analytics Field and seek to get more expertise in the domain.
+I am an Information Technology student in RMIT. I have a major interest in the Data Science and Analytics Field and seek to get more expertise in the domain.
 
 <p>•📄 View resume <a href="https://github.com/saidshannon/saidshannon/blob/main/Shannon_cv.pdf">here</a></p>
 •📫 E-mail: saidshannon@gmail.com
