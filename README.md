@@ -1,27 +1,41 @@
-# Hi👋🏼 My name is Shannon Dias
-I am an Information Technology student in RMIT. I have a major interest in the Data Science and Analytics Field and seek to get more expertise in the domain.
+<h1 align="center">Hi, I'm Shannon Dias 👋</h1>
 
-<p>•📄 View resume <a href="https://github.com/saidshannon/saidshannon/blob/main/Shannon_Dias_ATS_Reformatted.pdf">here</a></p>
-•📫 E-mail: saidshannon@gmail.com
-
-
-## 🔧 Languages and Tools:-
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="50" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/21042432/46911111-8460bb80-cf52-11e8-8265-6496a5c9ed73.png" height="50" style="vertical-align:top; margin:4px">
-<img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://img.stackshare.io/service/5601/keras.png" height="50" style="vertical-align:top; margin:4px">
+<p align="center">
+  Software Engineer | Backend | Full-Stack | AI/ML
 </p>
 
-## 📱 Contact me:-
+<p align="center">
+  Master of Information Technology student at RMIT University with industry experience at SAP.
+  I build scalable backend systems, full-stack applications, and AI-powered tools.
 </p>
-<a href="https://linkedin.com/in/shannon-dias" target="_blank" rel="noopener noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="Python" height="60" style="vertical-align:top; margin:4px"></a>
-<p>
+
+### About Me
+- 3+ years of software engineering experience at SAP Labs
+- Built REST APIs, microservices, and secure distributed systems
+- Worked with AI/ML, NLP, LLM agents, and knowledge graphs
+- Focused on clean architecture, testing, and practical product delivery
+
+### Tech Stack
+- Languages: Java, Python, JavaScript, TypeScript, SQL
+- Backend: Spring Boot, FastAPI, REST APIs, Microservices
+- Frontend: React, HTML, CSS
+- AI/ML: LangChain, LangGraph, NLTK, Scikit-learn, Pandas, NumPy
+- Data/DB: PostgreSQL, SQLite, Neo4j, ChromaDB, Snowflake
+- DevOps: Docker, GitHub Actions, Jenkins, CI/CD
+- Cloud: AWS
+
+### Featured Projects
+- **Knowledge Graph Builder** — Built an end-to-end pipeline to extract entities and build knowledge graphs from research papers using Neo4j.
+- **Browser AI Agent** — Developed a Chrome extension chatbot using FastAPI and Gemini for summarization, Q&A, and YouTube insights.
+- **Language Detection Model** — Built an ML model with ~99% accuracy using NLTK and Scikit-learn.
+- **Premier League Dashboard** — Scraped, analyzed, and visualized historical football data with Tableau.
+- **Customer Segmentation** — Applied K-Means clustering for behavioral segmentation and analysis.
+
+### Current Focus
+- Building recruiter-ready software projects
+- Improving deployment and cloud skills
+- Strengthening AI engineering and backend architecture
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/Shannon-Dias
+- Email: saidshannon@gmail.com
