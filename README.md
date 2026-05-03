@@ -16,12 +16,12 @@
 - Focused on clean architecture, testing, and practical product delivery
 
 ### Tech Stack
-- Languages: Java, Python, JavaScript, TypeScript, SQL
+- Languages: Java, Python, JavaScript, TypeScript, SQL, C++
 - Backend: Spring Boot, FastAPI, REST APIs, Microservices
 - Frontend: React, HTML, CSS
-- AI/ML: LangChain, LangGraph, NLTK, Scikit-learn, Pandas, NumPy
+- AI/ML: LangChain, LangGraph, NLTK, Scikit-learn, Pandas, NumPy, MCP, 
 - Data/DB: PostgreSQL, SQLite, Neo4j, ChromaDB, Snowflake
-- DevOps: Docker, GitHub Actions, Jenkins, CI/CD
+- DevOps: Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD
 - Cloud: AWS
 
 ### Featured Projects
