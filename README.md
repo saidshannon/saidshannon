@@ -1,41 +1,36 @@
-<h1 align="center">Hi, I'm Shannon Dias 👋</h1>
+# Shannon Dias
 
-<p align="center">
-  Software Engineer | Backend | Full-Stack | AI/ML
-</p>
+**Software Engineer | Backend | Full-Stack | AI/ML**  
+*3+ Years Experience @ SAP Labs | Master of Information Technology @ RMIT University*
 
-<p align="center">
-  Master of Information Technology student at RMIT University with industry experience at SAP.
-  I build scalable backend systems, full-stack applications, and AI-powered tools.
-</p>
+---
 
-### About Me
-- 3+ years of software engineering experience at SAP Labs
-- Built REST APIs, microservices, and secure distributed systems
-- Worked with AI/ML, NLP, LLM agents, and knowledge graphs
-- Focused on clean architecture, testing, and practical product delivery
+### 🚀 Professional Summary
 
-### Tech Stack
-- Languages: Java, Python, JavaScript, TypeScript, SQL, C++
-- Backend: Spring Boot, FastAPI, REST APIs, Microservices
-- Frontend: React, HTML, CSS
-- AI/ML: LangChain, LangGraph, NLTK, Scikit-learn, Pandas, NumPy, MCP, 
-- Data/DB: PostgreSQL, SQLite, Neo4j, ChromaDB, Snowflake
-- DevOps: Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD
-- Cloud: AWS
+I am a Senior-focused Software Engineer with a strong foundation in building scalable backend systems and cutting-edge AI solutions. My background blends **enterprise-grade engineering** (SAP Labs) with **advanced AI/ML research** (RMIT). I specialize in microservices, secure REST APIs, and autonomous AI agents.
 
-### Featured Projects
-- **Knowledge Graph Builder** — Built an end-to-end pipeline to extract entities and build knowledge graphs from research papers using Neo4j.
-- **Browser AI Agent** — Developed a Chrome extension chatbot using FastAPI and Gemini for summarization, Q&A, and YouTube insights.
-- **Language Detection Model** — Built an ML model with ~99% accuracy using NLTK and Scikit-learn.
-- **Premier League Dashboard** — Scraped, analyzed, and visualized historical football data with Tableau.
-- **Customer Segmentation** — Applied K-Means clustering for behavioral segmentation and analysis.
+- 🏢 **Ex-SAP Labs:** Developed and maintained mission-critical microservices using Java and Spring Boot.
+- - 🎓 **RMIT University:** Specializing in AI/ML, Knowledge Graphs, and LLM orchestration.
+  - - 🛠️ **Core Focus:** Building high-performance backends that integrate seamlessly with intelligent AI workflows.
+   
+    - ---
 
-### Current Focus
-- Building recruiter-ready software projects
-- Improving deployment and cloud skills
-- Strengthening AI engineering and backend architecture
+    ### 🛠️ Technical Expertise
 
-### Contact
-- LinkedIn: https://www.linkedin.com/in/Shannon-Dias
-- Email: saidshannon@gmail.com
+    | Category | Technologies |
+    | :--- | :--- |
+    | **Backend** | Java, Spring Boot, Python (FastAPI/Flask), REST APIs, Microservices, OAuth2, JWT |
+    | **AI / ML** | LangChain, LangGraph, Gemini, LLM Agents, Neo4j (Knowledge Graphs), NLP |
+    | **Data & Cloud** | PostgreSQL, Snowflake, Neo4j, Docker, Kubernetes, AWS, CI/CD (Jenkins/GitHub Actions) |
+    | **Testing & Quality** | JUnit, Mockito, Pytest, Test-Driven Development (TDD), Scrum |
+
+    ---
+
+    ### 🌟 Featured Projects
+
+    #### [Browser AI Assistant](https://github.com/saidshannon/Browser_assistant)
+    *Full-Stack AI Agent & Chrome Extension*
+    - **The Problem:** Fragmented workflows when analyzing web content and YouTube videos.
+    - - **The Solution:** Built a FastAPI backend with Gemini 1.5 Pro to provide real-time summarization and Q&A.
+      - - **Signal:** Demonstrates full-stack integration, LLM orchestration, and API design.
+        - - **Stack:** Python, FastAPI, Ge
