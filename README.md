@@ -19,7 +19,7 @@ I am a Senior-focused Software Engineer with a strong foundation in building sca
 
     | Category | Technologies |
     | :--- | :--- |
-    | **Backend** | Java, Spring Boot, Python (FastAPI/Flask), REST APIs, Microservices, OAuth2, JWT |
+    | **Backend** | Java, C++, C, Spring Boot, Python (FastAPI/Flask), REST APIs, Microservices, OAuth2, JWT |
     | **AI / ML** | LangChain, LangGraph, Gemini, LLM Agents, Neo4j (Knowledge Graphs), NLP |
     | **Data & Cloud** | PostgreSQL, Snowflake, Neo4j, Docker, Kubernetes, AWS, CI/CD (Jenkins/GitHub Actions) |
     | **Testing & Quality** | JUnit, Mockito, Pytest, Test-Driven Development (TDD), Scrum |
